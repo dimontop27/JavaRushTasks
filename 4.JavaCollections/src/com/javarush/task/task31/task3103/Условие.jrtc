@@ -1,0 +1,14 @@
+taskKey="com.javarush.task.task31.task3103"
+
+Своя реализация
+
+Реализуй логику методов:
+1. readBytes - должен возвращать все байты файла fileName.
+2. readLines - должен возвращать все строки файла fileName. Используй кодировку по умолчанию.
+3. writeBytes - должен записывать массив bytes в файл fileName.
+4. copy - должен копировать файл resourceFileName на место destinationFileName.
+
+ГЛАВНОЕ УСЛОВИЕ:
+Никаких других импортов!
+
+

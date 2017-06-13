@@ -1,0 +1,12 @@
+taskKey="com.javarush.task.task31.task3104"
+
+Поиск скрытых файлов
+
+В классе Solution переопредели логику двух методов:
+-visitFile кроме своей логики должен добавлять в archived все пути к zip и rar файлам
+-visitFileFailed должен добавлять в failed все пути к недоступным файлам и возвращать SKIP_SUBTREE
+Пример вывода:
+D:/mydir/BCD.zip
+Метод main не участвует в тестировании
+
+
